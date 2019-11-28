@@ -11,7 +11,7 @@ const Navbar = () => {
         <span className="d-block d-lg-none">Burak Seyhan</span>
         <span className="d-none d-lg-block">
           <img
-            class="img-fluid img-profile rounded-circle mx-auto mb-2"
+            className="img-fluid img-profile rounded-circle mx-auto mb-2"
             src="img/profilej.jpg"
             alt=""
           />
@@ -41,7 +41,7 @@ const Navbar = () => {
             </a>
           </li>
           <li className="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#education">
+            <a className="nav-link js-scroll-trigger" href="#education">
               Education
             </a>
           </li>
@@ -51,12 +51,12 @@ const Navbar = () => {
             </a>
           </li>
           <li className="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#interests">
+            <a className="nav-link js-scroll-trigger" href="#interests">
               Interests
             </a>
           </li>
           <li className="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#awards">
+            <a className="nav-link js-scroll-trigger" href="#awards">
               Awards
             </a>
           </li>
