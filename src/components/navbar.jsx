@@ -32,12 +32,12 @@ const Navbar = () => {
         <ul className="navbar-nav">
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#about">
-              About
+              About Me
             </a>
           </li>
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#experience">
-              Experience
+              Work Experience
             </a>
           </li>
           <li className="nav-item">
@@ -47,17 +47,17 @@ const Navbar = () => {
           </li>
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#skills">
-              Skills
+              My Skills
             </a>
           </li>
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#interests">
-              Interests
+              My Interests
             </a>
           </li>
           <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href="#awards">
-              Awards
+              My Awards
             </a>
           </li>
         </ul>
