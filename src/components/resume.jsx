@@ -7,7 +7,7 @@ const Resume = () => {
       id="about"
     >
       <div className="w-100">
-        <h1 className="mb-0">
+        <h1 className="mb-0" style={{ fontSize: 90 }}>
           Burak John
           <span className="text-primary"> Seyhan</span>
         </h1>
