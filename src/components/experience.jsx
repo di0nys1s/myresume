@@ -12,14 +12,38 @@ const Experience = () => {
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
             <h3 className="mb-0">QA Engineer</h3>
-            <div className="subheading mb-3">AEFIS LLC</div>
+            <div className="subheading mb-3">
+              <a target="_blank" href="https://www.aefis.com">
+                AEFIS LLC
+              </a>
+            </div>
             <p>
-              Bring to the table win-win survival strategies to ensure proactive
-              domination. At the end of the day, going forward, a new normal
-              that has evolved from generation X is on the runway heading
-              towards a streamlined cloud solution. User generated content in
-              real-time will have multiple touchpoints for offshoring.
+              In AEFIS agile development team, responsible for operating and
+              managing end to end testing process in all servers as a Head of QA
+              Operations.
             </p>
+            <ul>
+              <li>
+                Collaborated with developers and product owners to stay current
+                on product features and intended functionality
+              </li>
+              <li>
+                Operated under Agile and Scrum frameworks to complete releases
+                every fortnight and well-organized sprints
+              </li>
+              <li>
+                Reduced overall testing hours by writing and optimizing
+                automation test scripts in Selenium Web Driver
+              </li>
+              <li>
+                Completed in-depth usability testing on Windows, Android and iOS
+                mobile devices
+              </li>
+              <li>
+                Authored and maintained well-organized, efficient and successful
+                manual test cases for entire team
+              </li>
+            </ul>
           </div>
           <div className="resume-date text-md-right">
             <span className="text-primary">January 2016 - September 2019</span>
@@ -29,13 +53,16 @@ const Experience = () => {
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
             <h3 className="mb-0">IT Business Analyst</h3>
-            <div className="subheading mb-3">DOL - hepsiburada.com</div>
+            <div className="subheading mb-3">
+              <a target="_blank" href="https://www.hepsiburada.com">
+                hepsiburada.com
+              </a>
+            </div>
             <p>
-              Capitalize on low hanging fruit to identify a ballpark value added
-              activity to beta test. Override the digital divide with additional
-              clickthroughs from DevOps. Nanotechnology immersion along the
-              information highway will close the loop on focusing solely on the
-              bottom line.
+              Operating end to end Business Analysis in Agile project team
+              through working closely with software development and testing team
+              members to design and develop solutions to meet client
+              requirements for functionality, scalability and performance.
             </p>
           </div>
           <div className="resume-date text-md-right">
@@ -46,13 +73,14 @@ const Experience = () => {
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
             <h3 className="mb-0">IT Business Analyst</h3>
-            <div className="subheading mb-3">Ciceksepeti.com</div>
+            <div className="subheading mb-3">
+              <a target="_blank" href="https://www.ciceksepeti.com">
+                Ciceksepeti.com
+              </a>
+            </div>
             <p>
-              Podcasting operational change management inside of workflows to
-              establish a framework. Taking seamless key performance indicators
-              offline to maximise the long tail. Keeping your eye on the ball
-              while performing a deep dive on the start-up mentality to derive
-              convergence on cross-platform integration.
+              Responsible for conducting the analysis of the preparation of BI
+              systems for supporting the decision making of the top managers.
             </p>
           </div>
           <div className="resume-date text-md-right">
@@ -65,10 +93,9 @@ const Experience = () => {
             <h3 className="mb-0">IT Auditor</h3>
             <div className="subheading mb-3">KPMG Turkey</div>
             <p>
-              Collaboratively administrate empowered markets via plug-and-play
-              networks. Dynamically procrastinate B2C users after installed base
-              benefits. Dramatically visualize customer directed convergence
-              without revolutionary ROI.
+              Collecting and evaluating the evidence related to clients’
+              information systems, practices, controls and operations to be able
+              to understand and detect the critical risks in their IT process.
             </p>
           </div>
           <div className="resume-date text-md-right">

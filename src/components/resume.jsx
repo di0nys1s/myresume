@@ -16,10 +16,11 @@ const Resume = () => {
           <a href="mailto:seyhanburak9@gmail.com">seyhanburak9@gmail.com</a>
         </div>
         <p className="lead mb-5">
-          I am experienced in leveraging agile frameworks to provide a robust
-          synopsis for high level overviews. Iterative approaches to corporate
-          strategy foster collaborative thinking to further the overall value
-          proposition.
+          Highly motivated, bilingual software developer with customer-driven
+          nature and focus on working as part of team through offering wealth of
+          more than 5 years of IT expertise in different roles. Excellent
+          communicator with ability to meet deadlines and quickly resolve
+          issues. Valuable team player with personable and dedicated nature.
         </p>
         <div className="social-icons">
           <a href="https://www.linkedin.com/in/burak-seyhan-b7167733/">

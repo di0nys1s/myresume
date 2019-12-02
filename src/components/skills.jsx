@@ -27,6 +27,12 @@ const Skills = () => {
             <i className="fab fa-node-js"></i>
           </li>
           <li className="list-inline-item">
+            <i className="fab fa-github"></i>
+          </li>
+          <li className="list-inline-item">
+            <i className="fab fa-database"></i>
+          </li>
+          <li className="list-inline-item">
             <i className="fab fa-microsoft"></i>
           </li>
           <li className="list-inline-item">
@@ -48,11 +54,19 @@ const Skills = () => {
           </li>
           <li>
             <i className="fa-li fa fa-check"></i>
+            Object Oriented Programming with Java, C#
+          </li>
+          <li>
+            <i className="fa-li fa fa-check"></i>
             Cross Browser Testing &amp; Debugging
           </li>
           <li>
             <i className="fa-li fa fa-check"></i>
             Cross Functional Teams
+          </li>
+          <li>
+            <i className="fa-li fa fa-check"></i>
+            Multicultural Teams
           </li>
           <li>
             <i className="fa-li fa fa-check"></i>

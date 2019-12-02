@@ -11,34 +11,16 @@ const Award = () => {
         <ul className="fa-ul mb-0">
           <li>
             <i className="fa-li fa fa-trophy text-warning"></i>
-            Google Analytics Certified Developer22
+            Winner of Monash Industry Experience Expo 2019 with Project Demeter
           </li>
           <li>
             <i className="fa-li fa fa-trophy text-warning"></i>
-            Mobile Web Specialist - Google Certification
+            Web Developer - Microsoft Web Developer Certification
           </li>
           <li>
-            <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-            Place - University of Colorado Boulder - Emerging Tech Competition
-            2009
-          </li>
-          <li>
-            <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-            Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI
-            Design Category)
-          </li>
-          <li>
-            <i className="fa-li fa fa-trophy text-warning"></i>2<sup>nd</sup>
-            Place - University of Colorado Boulder - Emerging Tech Competition
-            2008
-          </li>
-          <li>
-            <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-            Place - James Buchanan High School - Hackathon 2006
-          </li>
-          <li>
-            <i className="fa-li fa fa-trophy text-warning"></i>3<sup>rd</sup>
-            Place - James Buchanan High School - Hackathon 2005
+            <i className="fa-li fa fa-trophy text-warning"></i>
+            Ranked top 500 in university entrance exam 2017 in Turkey among 2
+            million competitors
           </li>
         </ul>
       </div>
