@@ -11,7 +11,7 @@ const Award = () => {
         <ul className="fa-ul mb-0">
           <li>
             <i className="fa-li fa fa-trophy text-warning"></i>
-            Google Analytics Certified Developer
+            Google Analytics Certified Developer22
           </li>
           <li>
             <i className="fa-li fa fa-trophy text-warning"></i>
