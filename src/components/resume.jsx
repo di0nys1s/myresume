@@ -23,13 +23,16 @@ const Resume = () => {
           issues. Valuable team player with personable and dedicated nature.
         </p>
         <div className="social-icons">
-          <a href="https://www.linkedin.com/in/burak-seyhan-b7167733/">
+          <a
+            target="_blank"
+            href="https://www.linkedin.com/in/burak-seyhan-b7167733/"
+          >
             <i className="fab fa-linkedin-in"></i>
           </a>
-          <a href="https://github.com/di0nys1s">
+          <a target="_blank" href="https://github.com/di0nys1s">
             <i className="fab fa-github"></i>
           </a>
-          <a href="https://www.instagram.com/di0nys1s/">
+          <a target="_blank" href="https://www.instagram.com/di0nys1s/">
             <i className="fab fa-instagram"></i>
           </a>
         </div>
