@@ -27,7 +27,7 @@ const Resume = () => {
             </i>
           </p>
         </blockquote>
-        <h1 className="mb-0" style={{ fontSize: 90 }}>
+        <h1 className="mb-0" style={{ fontSize: 90, marginTop: 50 }}>
           Burak John
           <span className="text-primary"> Seyhan</span>
         </h1>
