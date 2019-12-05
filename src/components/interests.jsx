@@ -24,6 +24,11 @@ const Interest = () => {
         <p className="mb-0">
           I have been playing acoustic guitar since my childhood.
         </p>
+        <br />
+        <p className="mb-2">
+          I was also a former basketball player and volunteer in 2010 FIBA World
+          Basketball Championship as a referee supervisor.
+        </p>
       </div>
     </section>
   );

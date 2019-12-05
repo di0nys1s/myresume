@@ -18,20 +18,40 @@ const Education = () => {
             <div>Master of Information Technology - Web Development Track</div>
             <br />
             <p>
+              <strong>Skills Improved:</strong> OOP with Java and C#, Asp.NET
+              MVC, Unix Shell, RDBMS with SQL Server and NoSQL with MongoDB,
+              Unit Testing, Python, HTML5, CSS3, JS, Android SDK, RESTful Web
+              Services, Responsive UI/UX web and mobile design.
+            </p>
+            <p>
               <strong>Software Developer in Project Demeter: </strong>
               As a winner of Monash Industry Experience Expo 2019, Demeter is a
               comprehensive visual guide that helps refugee women to decide on a
               suitable suburb to start the business based on her unique needs.
               We provide information to help them with two aspects: business
-              competition and family needs.
+              competition and family needs. In technology stack, Microsoft Stack
+              is used including ASP.NET MVC for backend; HTML, CSS, JS and
+              jQuery for frontend development and Azure for deployment. The
+              project is also benefited from open data and for handling with
+              data R and leaflet is used.
               <br />
               <br />
-              <a
-                target="_blank"
-                href="https://www.youtube.com/watch?v=qY7jmfkxM60"
-              >
-                Demeter Product Video
-              </a>
+              <img
+                className="img-fluid mx-auto mb-2"
+                src="img/sa.png"
+                alt="techstack"
+                style={{ marginTop: 30 }}
+              />
+              <h4>
+                <br />
+                <a
+                  target="_blank"
+                  href="https://www.youtube.com/watch?v=qY7jmfkxM60"
+                >
+                  Demeter Product Video
+                </a>
+              </h4>
+              <br />
             </p>
             <h3>Courses TAKEN</h3>
             <ul>

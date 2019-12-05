@@ -13,7 +13,8 @@ const Navbar = () => {
           <img
             className="img-fluid img-profile rounded-circle mx-auto mb-2"
             src="img/profilej.jpg"
-            alt=""
+            alt="profile"
+            style={{ marginTop: -150 }}
           />
         </span>
       </a>

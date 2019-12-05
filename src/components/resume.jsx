@@ -7,6 +7,26 @@ const Resume = () => {
       id="about"
     >
       <div className="w-100">
+        <blockquote>
+          <p
+            style={{
+              marginTop: -50,
+              color: "grey",
+              fontStyle: "Times New Roman",
+              fontSize: "small"
+            }}
+          >
+            <i>
+              "Keep Ithaka always in your mind. Arriving there is what you’re
+              destined for. But don’t hurry the journey at all. Better if it
+              lasts for years, so you’re old by the time you reach the island,
+              wealthy with all you’ve gained on the way, not expecting Ithaka to
+              make you rich. And if you find her poor, Ithaka won’t have fooled
+              you. Wise as you will have become, so full of experience, you’ll
+              have understood by then what these Ithakas mean."
+            </i>
+          </p>
+        </blockquote>
         <h1 className="mb-0" style={{ fontSize: 90 }}>
           Burak John
           <span className="text-primary"> Seyhan</span>

@@ -11,7 +11,9 @@ const Experience = () => {
 
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
-            <h3 className="mb-0">QA Engineer</h3>
+            <h3 className="mb-0">
+              Software Quality Assurance Engineer / Developer
+            </h3>
             <div className="subheading mb-3">
               <a target="_blank" href="https://www.aefis.com">
                 AEFIS LLC
@@ -19,29 +21,43 @@ const Experience = () => {
             </div>
             <p>
               In AEFIS agile development team, responsible for operating and
-              managing end to end testing process in all servers as a Head of QA
-              Operations.
+              managing end to end testing process, creating and maintaining
+              automated test scripts, tracking, detecting and solving UI bug
+              features, developing new UI features in the iterations.
             </p>
             <ul>
               <li>
-                Collaborated with developers and product owners to stay current
-                on product features and intended functionality
+                Involved Frontend development via solving bug tickets and
+                developing GUI including HTML5, CSS3, Bootstrap, JavaScript,
+                jQuery and React
               </li>
+              <li>
+                Experience with C# and reduced overall testing hours by writing
+                and optimizing automation test scripts in Selenium Web Driver
+              </li>
+              <li>
+                Strong knowledge on responsive web design and helping for
+                designing mockups in Adobe Xd
+              </li>
+              <li>
+                Experience with consuming Web Services, working with both
+                internal and 3rd party API’s using Ajax and jQuery
+              </li>
+              <li>Tracking bugs using Rollbar and detecting bugs via XRebel</li>
+              <li>
+                Writing complex queries in SQL Server for creating efficient and
+                successful test cases.
+              </li>
+              <li>Experience with creating state workflows and diagrams</li>
               <li>
                 Operated under Agile and Scrum frameworks to complete releases
-                every fortnight and well-organized sprints
               </li>
               <li>
-                Reduced overall testing hours by writing and optimizing
-                automation test scripts in Selenium Web Driver
+                Used bitbucket and GitHub repository to submit code changes.
               </li>
               <li>
-                Completed in-depth usability testing on Windows, Android and iOS
-                mobile devices
-              </li>
-              <li>
-                Authored and maintained well-organized, efficient and successful
-                manual test cases for entire team
+                As a member of deployment team, responsible for sustaining
+                deployments using Atlassian bamboo.
               </li>
             </ul>
           </div>
