@@ -11,58 +11,83 @@ const Experience = () => {
 
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
-            <h3 className="mb-0">
-              Software Quality Assurance Engineer / Developer
-            </h3>
+            <h3 className="mb-0">Junior Frontend Developer</h3>
             <div className="subheading mb-3">
               <a target="_blank" href="https://www.aefis.com">
                 AEFIS LLC
               </a>
             </div>
             <p>
-              In AEFIS agile development team, responsible for operating and
-              managing end to end testing process, creating and maintaining
-              automated test scripts, tracking, detecting and solving UI bug
-              features, developing new UI features in the iterations.
+              In AEFIS agile development team, solving UI issues, developing new
+              UI features in the iterations.
             </p>
             <ul>
               <li>
-                Involved Frontend development via solving bug tickets and
-                developing GUI including HTML5, CSS3, Bootstrap, JavaScript,
-                jQuery and React
+                Developing new features in using HTML5, CSS3, JavaScript and
+                bootstrap in frontend.
               </li>
               <li>
-                Experience with C# and reduced overall testing hours by writing
-                and optimizing automation test scripts in Selenium Web Driver
+                Responsible for the detecting and resolving the bugs in
+                frontend.
               </li>
               <li>
-                Strong knowledge on responsive web design and helping for
-                designing mockups in Adobe Xd
+                Involved as an associate developer in company’s transition to
+                React technology and took a key role to accelerate the process.
+              </li>
+              <li>Analysed UI/UX design to improve usability.</li>
+              <li>Proficiency on web design using Adobe Xd.</li>
+              <li>
+                Operated under Agile and Scrum frameworks to complete releases
+              </li>
+            </ul>
+          </div>
+          <div className="resume-date text-md-right">
+            <span className="text-primary">November 2018 - November 2019</span>
+          </div>
+        </div>
+
+        <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div className="resume-content">
+            <h3 className="mb-0">Software Quality Assurance Engineer</h3>
+            <div className="subheading mb-3">
+              <a target="_blank" href="https://www.aefis.com">
+                AEFIS LLC
+              </a>
+            </div>
+            <p>
+              Responsible for operating and managing end to end testing process,
+              creating and maintaining automated test scripts, tracking,
+              detecting and reporting bugs.
+            </p>
+            <ul>
+              <li>
+                Proficient in C# and reduced overall testing hours by writing
+                and optimizing automation test scripts in Selenium Web Driver.
               </li>
               <li>
-                Experience with consuming Web Services, working with both
-                internal and 3rd party API’s using Ajax and jQuery
+                Tracking bugs using Rollbar and detecting bugs via XRebel.
               </li>
-              <li>Tracking bugs using Rollbar and detecting bugs via XRebel</li>
               <li>
                 Writing complex queries in SQL Server for creating efficient and
                 successful test cases.
               </li>
-              <li>Experience with creating state workflows and diagrams</li>
               <li>
-                Operated under Agile and Scrum frameworks to complete releases
+                I created state workflows and diagrams in the planning process
+                and eased the development process of the new products.
               </li>
               <li>
-                Used bitbucket and GitHub repository to submit code changes.
+                Responsible for creating and automating development workflows as
+                a JIRA Admin.
               </li>
               <li>
                 As a member of deployment team, responsible for sustaining
                 deployments using Atlassian bamboo.
               </li>
+              <li>Experience with creating state workflows and diagrams</li>
             </ul>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">January 2016 - September 2019</span>
+            <span className="text-primary">January 2016 - October 2018</span>
           </div>
         </div>
 
@@ -100,7 +125,7 @@ const Experience = () => {
             </p>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">July 2013 - July 2014</span>
+            <span className="text-primary">July 2013 - August 2014</span>
           </div>
         </div>
 
