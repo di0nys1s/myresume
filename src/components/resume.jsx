@@ -4,8 +4,7 @@ const Resume = () => {
   return (
     <section
       className="resume-section p-3 p-lg-5 d-flex align-items-center"
-      id="about"
-    >
+      id="about">
       <div className="w-100">
         <blockquote>
           <p
@@ -14,8 +13,7 @@ const Resume = () => {
               color: "grey",
               fontStyle: "Times New Roman",
               fontSize: "small"
-            }}
-          >
+            }}>
             <i>
               "Keep Ithaka always in your mind. Arriving there is what you’re
               destined for. But don’t hurry the journey at all. Better if it
@@ -28,7 +26,7 @@ const Resume = () => {
           </p>
         </blockquote>
         <h1 className="mb-0" style={{ fontSize: 90, marginTop: 50 }}>
-          Burak John
+          Bruce John
           <span className="text-primary"> Seyhan</span>
         </h1>
         <div className="subheading mb-5">

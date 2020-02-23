@@ -68,7 +68,7 @@ const Experience = () => {
             </ul>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">November 2018 - November 2019</span>
+            <span className="text-primary">October 2018 - November 2019</span>
           </div>
         </div>
 
