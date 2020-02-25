@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import Navbar from "./components/navbar";
 import Resume from "./components/resume";
 import Experience from "./components/experience";
@@ -7,6 +6,7 @@ import Education from "./components/education";
 import Skills from "./components/skills";
 import Interest from "./components/interests";
 import Award from "./components/awards";
+import "./App.css";
 
 function App() {
   return (
