@@ -10,25 +10,16 @@ const Experience = () => {
 
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
-            <h3 className="mb-0">Frontend Developer</h3>
+            <h3 className="mb-0">Frontend Developer (Freelance)</h3>
             <div className="subheading mb-3">
               <a target="_blank" href="https://www.coredna.com/">
                 Core DNA
               </a>
             </div>
-            <p>Working as a Frontend Developer in CoreDNA development team.</p>
-            <ul>
-              <li>
-                Creating new UI features in using HTML5, CSS3, SASS JavaScript,
-                CSS Grid and Flexbox.
-              </li>
-              <li>Responsible for resolving the bug features.</li>
-              <li>
-                Involved as a front-end developer in company’s various
-                client-based projects.
-              </li>
-              <li>Involved in UI/UX design process.</li>
-            </ul>
+            <p>
+              Working as a Freelance Frontend Developer to support in-house
+              CoreDNA development team.
+            </p>
           </div>
           <div className="resume-date text-md-right">
             <span className="text-primary">February 2020 - Present</span>
