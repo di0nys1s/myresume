@@ -28,7 +28,24 @@ const Experience = () => {
 
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
-            <h3 className="mb-0">Frontend Developer</h3>
+            <h3 className="mb-0">Web Developer (Volunteer)</h3>
+            <div className="subheading mb-3">
+              <a target="_blank" href="https://www.thecrag.com/">
+                theCrag.com
+              </a>
+            </div>
+            <p>
+              Working as a Web Developer to support theCrag development team.
+            </p>
+          </div>
+          <div className="resume-date text-md-right">
+            <span className="text-primary">January 2020 - Present</span>
+          </div>
+        </div>
+
+        <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div className="resume-content">
+            <h3 className="mb-0">Frontend Developer (Remote)</h3>
             <div className="subheading mb-3">
               <a target="_blank" href="z">
                 AEFIS LLC
@@ -59,13 +76,15 @@ const Experience = () => {
             </ul>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">October 2018 - November 2019</span>
+            <span className="text-primary">October 2018 - December 2019</span>
           </div>
         </div>
 
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
-            <h3 className="mb-0">Software Quality Assurance Engineer</h3>
+            <h3 className="mb-0">
+              Software Quality Assurance Engineer (Remote)
+            </h3>
             <div className="subheading mb-3">
               <a target="_blank" href="https://www.aefis.com">
                 AEFIS LLC

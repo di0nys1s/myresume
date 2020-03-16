@@ -34,14 +34,15 @@ const Resume = () => {
           <a href="mailto:seyhanburak9@gmail.com">seyhanburak9@gmail.com</a>
         </div>
         <p className="lead mb-5">
-          Highly motivated, passionate web developer who is considering web
-          development as a lifetime career objective with customer-driven nature
-          via focusing on working as part of a team through offering wealth of
-          IT expertise in agile development teams. As a web developer of a
-          winner <a href="#awards"> web application project </a>
-          and having a challenging start-up experience, I am a valuable
-          candidate for this role as well as your company with interpersonal and
-          dedicated nature.
+          I am a highly motivated, determined and passionate
+          web developer with a customer-driven nature, offering a wealth of IT
+          expertise in agile development teams. As the web developer of the
+          winning <a href="#awards"> web application project </a> at the Monash Industry
+          Experience Expo 2019, I have a unique skill set working with start-ups
+          and enterprise organisations across a range of roles and work-types
+          that give me a unique perspective of the software development
+          lifecycle. I aim to become an elite full-stack developer and believe I
+          can add immense value to your team.
         </p>
         <div className="social-icons">
           <a target="_blank" href="https://www.linkedin.com/in/burakjseyhan/">
