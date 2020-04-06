@@ -10,6 +10,21 @@ const Experience = () => {
 
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
+            <h3 className="mb-0">Web Developer</h3>
+            <div className="subheading mb-3">
+              <a target="_blank" href="https://www.coredna.com/">
+                iGenius
+              </a>
+            </div>
+            <p>Full-time Web Developer in iGenius development team.</p>
+          </div>
+          <div className="resume-date text-md-right">
+            <span className="text-primary">March 2020 - Present</span>
+          </div>
+        </div>
+
+        <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div className="resume-content">
             <h3 className="mb-0">Frontend Developer (Freelance)</h3>
             <div className="subheading mb-3">
               <a target="_blank" href="https://www.coredna.com/">
