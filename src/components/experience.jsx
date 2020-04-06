@@ -51,7 +51,10 @@ const Experience = () => {
             </div>
             <p>
               Working as a{" "}
-              <a href="https://www.thecrag.com/en/article/credit">
+              <a
+                style={{ textDecoration: "none" }}
+                target="_blank"
+                href="https://www.thecrag.com/en/article/credit">
                 Web Developer
               </a>{" "}
               to support theCrag development team.
