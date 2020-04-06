@@ -13,7 +13,7 @@ const Experience = () => {
             <h3 className="mb-0">Web Developer</h3>
             <div className="subheading mb-3">
               <a target="_blank" href="https://www.igeniusgroup.com/">
-                iGenius
+                iGenius Group
               </a>
             </div>
             <p>Full-time Web Developer in iGenius development team.</p>
