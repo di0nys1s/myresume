@@ -12,7 +12,7 @@ const Experience = () => {
           <div className="resume-content">
             <h3 className="mb-0">Web Developer</h3>
             <div className="subheading mb-3">
-              <a target="_blank" href="https://www.coredna.com/">
+              <a target="_blank" href="https://www.igeniusgroup.com/">
                 iGenius
               </a>
             </div>
@@ -50,7 +50,11 @@ const Experience = () => {
               </a>
             </div>
             <p>
-              Working as a Web Developer to support theCrag development team.
+              Working as a{" "}
+              <a href="https://www.thecrag.com/en/article/credit">
+                Web Developer
+              </a>{" "}
+              to support theCrag development team.
             </p>
           </div>
           <div className="resume-date text-md-right">
