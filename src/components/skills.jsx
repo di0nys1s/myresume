@@ -18,19 +18,22 @@ const Skills = () => {
             <i className="fab fa-css3-alt"></i>
           </li>
           <li className="list-inline-item">
-            <i className="fab fa-js-square"></i>
+            <i className="fab fa-js"></i>
+          </li>
+          <li className="list-inline-item">
+            <i className="fab fa-vuejs"></i>
           </li>
           <li className="list-inline-item">
             <i className="fab fa-react"></i>
+          </li>
+          <li className="list-inline-item">
+            <i className="fab fa-node"></i>
           </li>
           <li className="list-inline-item">
             <i className="fab fa-node-js"></i>
           </li>
           <li className="list-inline-item">
             <i className="fab fa-github"></i>
-          </li>
-          <li className="list-inline-item">
-            <i className="fab fa-database"></i>
           </li>
           <li className="list-inline-item">
             <i className="fab fa-microsoft"></i>

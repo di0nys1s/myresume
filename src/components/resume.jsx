@@ -26,7 +26,7 @@ const Resume = () => {
           </p>
         </blockquote>
         <h1 className="mb-0" style={{ fontSize: 90, marginTop: 50 }}>
-          Bruce John
+          Burak
           <span className="text-primary"> Seyhan</span>
         </h1>
         <div className="subheading mb-5">
@@ -34,15 +34,12 @@ const Resume = () => {
           <a href="mailto:seyhanburak9@gmail.com">seyhanburak9@gmail.com</a>
         </div>
         <p className="lead mb-5">
-          I am a highly motivated, determined and passionate
-          web developer with a customer-driven nature, offering a wealth of IT
-          expertise in agile development teams. As the web developer of the
-          winning <a href="#awards"> web application project </a> at the Monash Industry
-          Experience Expo 2019, I have a unique skill set working with start-ups
-          and enterprise organisations across a range of roles and work-types
-          that give me a unique perspective of the software development
-          lifecycle. I aim to become an elite full-stack developer and believe I
-          can add immense value to your team.
+          Highly motivated, full stack software developer with 
+          customer-driven nature and focus on working as part of 
+          team through offering wealth of IT expertise. 
+          Excellent communicator with ability to meet deadlines 
+          and quickly resolve issues. Valuable team player with 
+          personable and dedicated nature. 
         </p>
         <div className="social-icons">
           <a target="_blank" href="https://www.linkedin.com/in/burakjseyhan/">

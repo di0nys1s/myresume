@@ -169,6 +169,7 @@ section.resume-section .resume-item .resume-date {
 
 a {
   color: #1e90ff;
+  text-decoration: none !important;
 }
 
 html {
@@ -178,5 +179,5 @@ html {
 a:hover,
 a:focus,
 a:active {
-  color: #1e90ff;
+  color: orange;
 }

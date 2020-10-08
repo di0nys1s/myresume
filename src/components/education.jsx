@@ -84,11 +84,12 @@ const Education = () => {
               <li>Professional practice</li>
             </ul>
           </div>
+          {/*
           <div className="resume-date text-md-right">
             <span className="text-primary">July 2017 - July 2019</span>
           </div>
+          */}
         </div>
-
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
           <div className="resume-content">
             <h3 className="mb-0">Bilge Adam Academy</h3>
@@ -100,9 +101,11 @@ const Education = () => {
               ASP.NET MVC.
             </p>
           </div>
+          {/*
           <div className="resume-date text-md-right">
             <span className="text-primary">January 2015 - June 2015</span>
           </div>
+          */}
         </div>
 
         <br />
@@ -114,9 +117,12 @@ const Education = () => {
               Bachelor of Science in Statistics and Economics
             </div>
           </div>
+          
+          {/*
           <div className="resume-date text-md-right">
             <span className="text-primary">September 2007 - June 2011</span>
           </div>
+          */}
         </div>
       </div>
     </section>

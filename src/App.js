@@ -15,11 +15,11 @@ function App() {
         <Navbar />
         <Resume />
         <hr className="m-0" />
+        <Skills />
+        <hr />
         <Experience />
         <hr />
         <Education />
-        <hr />
-        <Skills />
         <hr />
         <Interest />
         <hr />

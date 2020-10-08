@@ -10,13 +10,13 @@ const Experience = () => {
 
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
-            <h3 className="mb-0">Web Developer</h3>
+            <h3 className="mb-0">Web Software Developer</h3>
             <div className="subheading mb-3">
               <a target="_blank" href="https://www.igeniusgroup.com/">
                 iGenius Group
               </a>
             </div>
-            <p>Full-time Web Developer in iGenius development team.</p>
+            <p>Full Stack Web Software Developer in iGenius development team.</p>
           </div>
           <div className="resume-date text-md-right">
             <span className="text-primary">March 2020 - Present</span>
@@ -25,25 +25,25 @@ const Experience = () => {
 
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
-            <h3 className="mb-0">Frontend Developer (Freelance)</h3>
+            <h3 className="mb-0">Frontend Developer</h3>
             <div className="subheading mb-3">
               <a target="_blank" href="https://www.coredna.com/">
                 Core DNA
               </a>
             </div>
             <p>
-              Working as a Freelance Frontend Developer to support in-house
+              Freelance Frontend Developer to support in-house
               CoreDNA development team.
             </p>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">February 2020 - Present</span>
+            <span className="text-primary">January 2020 - June 2020</span>
           </div>
         </div>
 
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
-            <h3 className="mb-0">Web Developer (Volunteer)</h3>
+            <h3 className="mb-0">Software Developer (Volunteer)</h3>
             <div className="subheading mb-3">
               <a target="_blank" href="https://www.thecrag.com/">
                 theCrag.com
@@ -55,7 +55,7 @@ const Experience = () => {
                 style={{ textDecoration: "none" }}
                 target="_blank"
                 href="https://www.thecrag.com/en/article/credit">
-                Web Developer
+                Software Developer
               </a>{" "}
               to support theCrag development team.
             </p>
@@ -67,7 +67,7 @@ const Experience = () => {
 
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
-            <h3 className="mb-0">Frontend Developer (Remote)</h3>
+            <h3 className="mb-0">Frontend Developer</h3>
             <div className="subheading mb-3">
               <a target="_blank" href="z">
                 AEFIS LLC
@@ -98,14 +98,14 @@ const Experience = () => {
             </ul>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">October 2018 - December 2019</span>
+            <span className="text-primary">July 2018 - December 2019</span>
           </div>
         </div>
 
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
             <h3 className="mb-0">
-              Software Quality Assurance Engineer (Remote)
+              Software Test Engineer
             </h3>
             <div className="subheading mb-3">
               <a target="_blank" href="https://www.aefis.com">
@@ -145,10 +145,11 @@ const Experience = () => {
             </ul>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">January 2016 - October 2018</span>
+            <span className="text-primary">January 2016 - June 2018</span>
           </div>
         </div>
 
+        {/*
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
             <h3 className="mb-0">IT Business Analyst</h3>
@@ -201,6 +202,7 @@ const Experience = () => {
             <span className="text-primary">October 2011 - June 2013</span>
           </div>
         </div>
+          */ }
       </div>
     </section>
   );
