@@ -159,10 +159,8 @@ const Experience = () => {
               </a>
             </div>
             <p>
-              Operating end to end Business Analysis in Agile project team
-              through working closely with software development and testing team
-              members to design and develop solutions to meet client
-              requirements for functionality, scalability and performance.
+              In Check-out and Storefront Agile Development Team, operating end to end 
+              Business Analysis process including Jira management.
             </p>
           </div>
           <div className="resume-date text-md-right">
@@ -179,12 +177,12 @@ const Experience = () => {
               </a>
             </div>
             <p>
-              Responsible for conducting the analysis of the preparation of BI
-              systems for supporting the decision making of the top managers.
+              In IT DW team, responsible for conducting the analysis of the 
+              preparation of BI systems for supporting the decision making of the top managers.
             </p>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">July 2013 - August 2014</span>
+            <span className="text-primary">August 2013 - July 2014</span>
           </div>
         </div>
 
