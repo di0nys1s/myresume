@@ -16,28 +16,11 @@ const Experience = () => {
                 iGenius Group
               </a>
             </div>
-            <p>Full Stack Web Software Developer in iGenius development team.</p>
+            <p>I work on various Client Web application projects using Full Stack JavaScript cutting edge solutions in an agile environment. I contribute to design, code, test, document and refactor the complex programs. I apply agreed standards and tools, to achieve well-engineered outcomes. I also participate in reviews of my own work and lead the reviews of my colleagues' work.</p>
+            
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">March 2020 - Present</span>
-          </div>
-        </div>
-
-        <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div className="resume-content">
-            <h3 className="mb-0">Frontend Developer</h3>
-            <div className="subheading mb-3">
-              <a target="_blank" href="https://www.coredna.com/">
-                Core DNA
-              </a>
-            </div>
-            <p>
-              Freelance Frontend Developer to support in-house
-              CoreDNA development team.
-            </p>
-          </div>
-          <div className="resume-date text-md-right">
-            <span className="text-primary">January 2020 - June 2020</span>
+            <span className="text-primary">January 2020 - Present</span>
           </div>
         </div>
 
@@ -61,7 +44,7 @@ const Experience = () => {
             </p>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">January 2020 - Present</span>
+            <span className="text-primary">January 2020 - December 2020</span>
           </div>
         </div>
 
@@ -69,36 +52,47 @@ const Experience = () => {
           <div className="resume-content">
             <h3 className="mb-0">Frontend Developer</h3>
             <div className="subheading mb-3">
-              <a target="_blank" href="z">
+              <a target="_blank" href="https://www.aefis.com">
                 AEFIS LLC
               </a>
             </div>
             <p>
               In AEFIS agile development team, solving UI issues, developing new
-              UI features in the iterations.
+              UI features in the iterations
             </p>
             <ul>
               <li>
-                Developing new features in using HTML5, CSS3, JavaScript and
-                bootstrap in frontend.
+              Developed UI features using HTML5, CSS3 and JavaScript
               </li>
               <li>
-                Responsible for the detecting and resolving the bugs in
-                frontend.
+              Detected and resolved the bugs in frontend
               </li>
               <li>
-                Involved as an associate developer in company’s transition to
-                React technology and took a key role to accelerate the process.
+              Involved as an associate developer in company’s transition to React technology and
+              took a key role to accelerate the process
               </li>
-              <li>Analysed UI/UX design to improve usability.</li>
-              <li>Proficiency on web design using Adobe Xd.</li>
+              <li>Analysed UI/UX design to improve usability</li>
+              <li>Designed responsive UI features using Adobe Xd</li>
               <li>
                 Operated under Agile and Scrum frameworks to complete releases
               </li>
             </ul>
+          <div>
+            <h4>Achievements</h4>
+            <ul>
+              <li>
+              Company’s transition process to ReactJS was completed 2 months before the
+              estimated due date after my involvement
+              </li>
+              <li>
+              6 months after taking the responsibility of the UI issues, customer complaints
+              decreased 20%
+              </li>
+            </ul>
+          </div>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">July 2018 - December 2019</span>
+            <span className="text-primary">Jan 2018 - December 2019</span>
           </div>
         </div>
 
@@ -112,40 +106,45 @@ const Experience = () => {
                 AEFIS LLC
               </a>
             </div>
-            <p>
+              <p>
               Responsible for operating and managing end to end testing process,
-              creating and maintaining automated test scripts, tracking,
-              detecting and reporting bugs.
-            </p>
-            <ul>
-              <li>
-                Proficient in C# and reduced overall testing hours by writing
-                and optimizing automation test scripts in Selenium Web Driver.
-              </li>
-              <li>
-                Tracking bugs using Rollbar and detecting bugs via XRebel.
-              </li>
-              <li>
-                Writing complex queries in SQL Server for creating efficient and
-                successful test cases.
-              </li>
-              <li>
-                I created state workflows and diagrams in the planning process
-                and eased the development process of the new products.
-              </li>
-              <li>
-                Responsible for creating and automating development workflows as
-                a JIRA Admin.
-              </li>
-              <li>
-                As a member of deployment team, responsible for sustaining
-                deployments using Atlassian bamboo.
-              </li>
-              <li>Experience with creating state workflows and diagrams</li>
-            </ul>
+                creating and maintaining automated test scripts, tracking,
+                detecting and reporting bugs
+              </p>
+              <ul>
+                <li>
+                Created automation test scripts in Selenium Web Driver and Puppeteer using Java and JavaSript
+                </li>
+                <li>
+                Tracked and reported bugs using Rollbar and XRebel
+                </li>      
+                <li>
+                Wrote complex queries in SQL Server for creating efficient and successful test cases
+                </li>
+                <li>
+                Implemented and automating development workflows as a JIRA Admin
+                </li>
+                <li>
+                  Created state workflows and diagrams in the planning process
+                  and eased the development process of the new products
+                </li>
+                <li>
+                As a member of deployment team, sustained and approved production deployments
+                </li>
+              </ul>
+            <div>
+              <h4>Achievements</h4>
+              <ul>
+                <li>
+                Automated 50% of the company’s user interface and eliminated the manual user
+                interface testing hours significantly
+                </li>
+              </ul>
+          </div>
+
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">January 2016 - June 2018</span>
+            <span className="text-primary">January 2016 - December 2017</span>
           </div>
         </div>
 

@@ -90,6 +90,18 @@ const Education = () => {
           </div>
           */}
         </div>
+
+        <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div className="resume-content">
+            <h3 className="mb-0">Performance Education</h3>
+            <div className="subheading mb-3">
+              Professional Yerar, Information Technology
+            </div>
+          </div>
+        </div>
+
+        <br />
+
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
           <div className="resume-content">
             <h3 className="mb-0">Bilge Adam Academy</h3>
@@ -114,7 +126,7 @@ const Education = () => {
           <div className="resume-content">
             <h3 className="mb-0">Middle East Technical University</h3>
             <div className="subheading mb-3">
-              Bachelor of Science in Statistics and Economics
+              Bachelor of Science
             </div>
           </div>
           

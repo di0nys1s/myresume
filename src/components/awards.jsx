@@ -11,7 +11,7 @@ const Award = () => {
         <ul className="fa-ul mb-0">
           <li>
             <i className="fa-li fa fa-trophy text-warning"></i>
-            Winner of Monash Industry Experience Expo 2019 with{" "}
+            Winner of Monash Industry Experience Expo with{" "}
             <a href="#education"> Project Demeter </a>
           </li>
           <li>
@@ -20,7 +20,7 @@ const Award = () => {
           </li>
           <li>
             <i className="fa-li fa fa-trophy text-warning"></i>
-            Ranked top 500 in university entrance exam 2007 in Turkey among 2
+            Ranked top 500 in university entrance exam in Turkey among 2
             million competitors
           </li>
         </ul>
