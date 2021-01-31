@@ -10,14 +10,20 @@ const Experience = () => {
 
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
-            <h3 className="mb-0">Web Software Developer</h3>
+            <h3 className="mb-0">Full Stack Developer</h3>
             <div className="subheading mb-3">
               <a target="_blank" href="https://www.igeniusgroup.com/">
                 iGenius Group
               </a>
             </div>
-            <p>I work on various Client Web application projects using Full Stack JavaScript cutting edge solutions in an agile environment. I contribute to design, code, test, document and refactor the complex programs. I apply agreed standards and tools, to achieve well-engineered outcomes. I also participate in reviews of my own work and lead the reviews of my colleagues' work.</p>
-            
+            <p>
+              I work on various Client Web application projects using Full Stack
+              JavaScript cutting edge solutions in an agile environment. I
+              contribute to design, code, test, document and refactor the
+              complex programs. I apply agreed standards and tools, to achieve
+              well-engineered outcomes. I also participate in reviews of my own
+              work and lead the reviews of my colleagues' work.
+            </p>
           </div>
           <div className="resume-date text-md-right">
             <span className="text-primary">January 2020 - Present</span>
@@ -44,7 +50,7 @@ const Experience = () => {
             </p>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">January 2020 - December 2020</span>
+            <span className="text-primary">January 2020 - Present</span>
           </div>
         </div>
 
@@ -61,15 +67,11 @@ const Experience = () => {
               UI features in the iterations
             </p>
             <ul>
+              <li>Developed UI features using HTML5, CSS3 and JavaScript</li>
+              <li>Detected and resolved the bugs in frontend</li>
               <li>
-              Developed UI features using HTML5, CSS3 and JavaScript
-              </li>
-              <li>
-              Detected and resolved the bugs in frontend
-              </li>
-              <li>
-              Involved as an associate developer in company’s transition to React technology and
-              took a key role to accelerate the process
+                Involved as an associate developer in company’s transition to
+                React technology and took a key role to accelerate the process
               </li>
               <li>Analysed UI/UX design to improve usability</li>
               <li>Designed responsive UI features using Adobe Xd</li>
@@ -77,74 +79,72 @@ const Experience = () => {
                 Operated under Agile and Scrum frameworks to complete releases
               </li>
             </ul>
-          <div>
-            <h4>Achievements</h4>
-            <ul>
-              <li>
-              Company’s transition process to ReactJS was completed 2 months before the
-              estimated due date after my involvement
-              </li>
-              <li>
-              6 months after taking the responsibility of the UI issues, customer complaints
-              decreased 20%
-              </li>
-            </ul>
-          </div>
+            <div>
+              <h4>Achievements</h4>
+              <ul>
+                <li>
+                  Company’s transition process to ReactJS was completed 2 months
+                  before the estimated due date after my involvement
+                </li>
+                <li>
+                  6 months after taking the responsibility of the UI issues,
+                  customer complaints decreased 20%
+                </li>
+              </ul>
+            </div>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">Jan 2018 - December 2019</span>
+            <span className="text-primary">March 2017 - August 2019</span>
           </div>
         </div>
 
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
-            <h3 className="mb-0">
-              Software Test Engineer
-            </h3>
+            <h3 className="mb-0">Software Test Engineer</h3>
             <div className="subheading mb-3">
               <a target="_blank" href="https://www.aefis.com">
                 AEFIS LLC
               </a>
             </div>
-              <p>
+            <p>
               Responsible for operating and managing end to end testing process,
-                creating and maintaining automated test scripts, tracking,
-                detecting and reporting bugs
-              </p>
-              <ul>
-                <li>
-                Created automation test scripts in Selenium Web Driver and Puppeteer using Java and JavaSript
-                </li>
-                <li>
-                Tracked and reported bugs using Rollbar and XRebel
-                </li>      
-                <li>
-                Wrote complex queries in SQL Server for creating efficient and successful test cases
-                </li>
-                <li>
+              creating and maintaining automated test scripts, tracking,
+              detecting and reporting bugs
+            </p>
+            <ul>
+              <li>
+                Created automation test scripts in Selenium Web Driver and
+                Puppeteer using Java and JavaSript
+              </li>
+              <li>Tracked and reported bugs using Rollbar and XRebel</li>
+              <li>
+                Wrote complex queries in SQL Server for creating efficient and
+                successful test cases
+              </li>
+              <li>
                 Implemented and automating development workflows as a JIRA Admin
-                </li>
-                <li>
-                  Created state workflows and diagrams in the planning process
-                  and eased the development process of the new products
-                </li>
-                <li>
-                As a member of deployment team, sustained and approved production deployments
-                </li>
-              </ul>
+              </li>
+              <li>
+                Created state workflows and diagrams in the planning process and
+                eased the development process of the new products
+              </li>
+              <li>
+                As a member of deployment team, sustained and approved
+                production deployments
+              </li>
+            </ul>
             <div>
               <h4>Achievements</h4>
               <ul>
                 <li>
-                Automated 50% of the company’s user interface and eliminated the manual user
-                interface testing hours significantly
+                  Automated 50% of the company’s user interface and eliminated
+                  the manual user interface testing hours significantly
                 </li>
               </ul>
-          </div>
-
+            </div>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">January 2016 - December 2017</span>
+            <span className="text-primary">March 2015 - February 2017</span>
           </div>
         </div>
 
@@ -199,7 +199,7 @@ const Experience = () => {
             <span className="text-primary">October 2011 - June 2013</span>
           </div>
         </div>
-          */ }
+          */}
       </div>
     </section>
   );

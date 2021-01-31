@@ -4,8 +4,7 @@ const Education = () => {
   return (
     <section
       className="resume-section p-3 p-lg-5 d-flex align-items-center"
-      id="education"
-    >
+      id="education">
       <div className="w-100">
         <h2 className="mb-5">Education</h2>
 
@@ -46,8 +45,7 @@ const Education = () => {
                 <br />
                 <a
                   target="_blank"
-                  href="https://www.youtube.com/watch?v=qY7jmfkxM60"
-                >
+                  href="https://www.youtube.com/watch?v=qY7jmfkxM60">
                   Demeter Product Video
                 </a>
               </h4>
@@ -126,10 +124,10 @@ const Education = () => {
           <div className="resume-content">
             <h3 className="mb-0">Middle East Technical University</h3>
             <div className="subheading mb-3">
-              Bachelor of Science
+              Bachelor of Science, Economics
             </div>
           </div>
-          
+
           {/*
           <div className="resume-date text-md-right">
             <span className="text-primary">September 2007 - June 2011</span>
