@@ -26,7 +26,7 @@ const Experience = () => {
             </p>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">January 2020 - Present</span>
+            <span className="text-primary">March 2020 - April 2021</span>
           </div>
         </div>
 
@@ -94,7 +94,7 @@ const Experience = () => {
             </div>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">March 2017 - August 2019</span>
+            <span className="text-primary">March 2016 - December 2019</span>
           </div>
         </div>
 
@@ -144,7 +144,7 @@ const Experience = () => {
             </div>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">March 2015 - February 2017</span>
+            <span className="text-primary">January 2015 - February 2016</span>
           </div>
         </div>
 
