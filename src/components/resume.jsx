@@ -15,7 +15,7 @@ const Resume = () => {
           <a href="mailto:seyhanburak9@gmail.com">seyhanburak9@gmail.com</a>
         </div>
         <p className="lead mb-5">
-        I am a highly motivated, curious, ACS Certified Full Stack Software Developer with a Computer Science background and professional experience in Software Testing which gives me a unique perspective and integrated approach to the IT projects. Accumulating years of different industry knowledge and experience in dynamic and fast-paced environments give me the ability to work complex technical and professional activities under general direction with pressure and strict deadlines. With having high level of communication and interpersonal skills in oral and written, I can present complex information to both technical and non-technical audiences. 
+        I am a highly motivated, curious, ACS Certified Full Stack Software Developer with a Computer Science background. Accumulating years of different industry knowledge and experience in dynamic and fast-paced environments give me the ability to work complex technical and professional activities under general direction with pressure and strict deadlines. With having high level of communication and interpersonal skills in oral and written, I can present complex information to both technical and non-technical audiences. 
         </p>
         <div className="social-icons">
           <a target="_blank" href="https://www.linkedin.com/in/burakjseyhan/">

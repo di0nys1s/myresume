@@ -94,10 +94,11 @@ const Experience = () => {
             </div>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">March 2016 - December 2019</span>
+            <span className="text-primary">March 2016 - September 2019</span>
           </div>
         </div>
 
+        {/*
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
             <h3 className="mb-0">Software Test Engineer</h3>
@@ -148,7 +149,7 @@ const Experience = () => {
           </div>
         </div>
 
-        {/*
+        
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
             <h3 className="mb-0">IT Business Analyst</h3>
