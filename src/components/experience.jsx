@@ -4,9 +4,29 @@ const Experience = () => {
   return (
     <section
       className="resume-section p-3 p-lg-5 d-flex justify-content-center"
-      id="experience">
+      id="experience"
+    >
       <div className="w-100">
         <h2 className="mb-5">Experience</h2>
+
+        <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div className="resume-content">
+            <h3 className="mb-0">Frontend Engineer</h3>
+            <div className="subheading mb-3">
+              <a target="_blank" href="https://www.igeniusgroup.com/">
+                Netfront
+              </a>
+            </div>
+            <p>
+              At Netfront, as a Frontend Engineer, I am working in company’s
+              development team mainly focusing on company’s web and mobile
+              app-based education platforms.
+            </p>
+          </div>
+          <div className="resume-date text-md-right">
+            <span className="text-primary">April 2021 - present</span>
+          </div>
+        </div>
 
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
@@ -17,8 +37,8 @@ const Experience = () => {
               </a>
             </div>
             <p>
-              I work on various Client Web application projects using Full Stack
-              JavaScript cutting edge solutions in an agile environment. I
+              I worked on various Client Web application projects using Full
+              Stack JavaScript cutting edge solutions in an agile environment. I
               contribute to design, code, test, document and refactor the
               complex programs. I apply agreed standards and tools, to achieve
               well-engineered outcomes. I also participate in reviews of my own
@@ -43,7 +63,8 @@ const Experience = () => {
               <a
                 style={{ textDecoration: "none" }}
                 target="_blank"
-                href="https://www.thecrag.com/en/article/credit">
+                href="https://www.thecrag.com/en/article/credit"
+              >
                 Software Developer
               </a>{" "}
               to support theCrag development team.
