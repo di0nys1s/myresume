@@ -21,6 +21,9 @@ const Skills = () => {
             <i className="fab fa-js"></i>
           </li>
           <li className="list-inline-item">
+            <i className="fab fa-aws"></i>
+          </li>
+          <li className="list-inline-item">
             <svg
               width="30pt"
               height="30pt"
@@ -92,31 +95,77 @@ const Skills = () => {
           </li>
         </ul>
 
-        <div className="subheading mb-3">Workflow</div>
+        <div className="subheading mb-3">Key Skills</div>
         <ul className="fa-ul mb-0">
           <li>
             <i className="fa-li fa fa-check"></i>
-            Mobile-First, Responsive Design
+            Highly proficient in HTML5, CSS and Sass, JavaScript, Typescript and
+            ES6+
           </li>
           <li>
             <i className="fa-li fa fa-check"></i>
-            Object Oriented Programming with Java, C#
+            Adept in using JavaScript libraries and frameworks including React,
+            React Native, Vue, Node
           </li>
           <li>
             <i className="fa-li fa fa-check"></i>
-            Cross Browser Testing &amp; Debugging
+            Proficient in creating applications using Next
           </li>
           <li>
             <i className="fa-li fa fa-check"></i>
-            Cross Functional Teams
+            Experience in creating UI components with Storybook
           </li>
           <li>
             <i className="fa-li fa fa-check"></i>
-            Multicultural Teams
+            Highly proficient designing and working with REST and GraphQL
           </li>
           <li>
             <i className="fa-li fa fa-check"></i>
-            Agile Development &amp; Scrum
+            Experience in unit testing using React Testing Library, Jest, Chai
+            and Mocha
+          </li>
+          <li>
+            <i className="fa-li fa fa-check"></i>
+            Keen understanding of responsive design principles
+          </li>
+          <li>
+            <i className="fa-li fa fa-check"></i>
+            Keen understanding of responsive design principles
+          </li>
+          <li>
+            <i className="fa-li fa fa-check"></i>
+            Well versed testing and debugging using developer tools
+          </li>
+          <li>
+            <i className="fa-li fa fa-check"></i>
+            Proficient working with relational and non-relational database
+            structures
+          </li>
+          <li>
+            <i className="fa-li fa fa-check"></i>
+            Keen knowledge of site SEO, accessibility standards and optimisation
+          </li>
+          <li>
+            <i className="fa-li fa fa-check"></i>
+            Highly experienced working in Agile teams
+          </li>
+          <li>
+            <i className="fa-li fa fa-check"></i>
+            Professional experience in developing UI test scripts using Selenium
+            and Puppeteer
+          </li>
+          <li>
+            <i className="fa-li fa fa-check"></i>
+            Experience working with WordPress, Oxygen and Shopify
+          </li>
+          <li>
+            <i className="fa-li fa fa-check"></i>
+            Proficient creating document management websites using Microsoft
+            SharePoint
+          </li>
+          <li>
+            <i className="fa-li fa fa-check"></i>
+            Keen understanding of OOP using Java and C#
           </li>
         </ul>
       </div>

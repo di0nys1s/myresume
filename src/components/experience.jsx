@@ -24,7 +24,7 @@ const Experience = () => {
             </p>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">April 2021 - present</span>
+            <span className="text-primary">April 2021 - Present</span>
           </div>
         </div>
 
@@ -46,7 +46,7 @@ const Experience = () => {
             </p>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">March 2020 - April 2021</span>
+            <span className="text-primary">December 2019 - April 2021</span>
           </div>
         </div>
 
@@ -71,7 +71,7 @@ const Experience = () => {
             </p>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">January 2020 - March 2020</span>
+            <span className="text-primary">September 2019 - March 2020</span>
           </div>
         </div>
 
@@ -115,11 +115,10 @@ const Experience = () => {
             </div>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">March 2016 - September 2019</span>
+            <span className="text-primary">March 2017 - December 2019</span>
           </div>
         </div>
 
-        {/*
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
             <h3 className="mb-0">Software Test Engineer</h3>
@@ -166,11 +165,10 @@ const Experience = () => {
             </div>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">January 2015 - February 2016</span>
+            <span className="text-primary">September 2015 - March 2017</span>
           </div>
         </div>
 
-        
         <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
           <div className="resume-content">
             <h3 className="mb-0">IT Business Analyst</h3>
@@ -180,12 +178,12 @@ const Experience = () => {
               </a>
             </div>
             <p>
-              In Check-out and Storefront Agile Development Team, operating end to end 
-              Business Analysis process including Jira management.
+              In Check-out and Storefront Agile Development Team, operating end
+              to end Business Analysis process including Jira management.
             </p>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">August 2014 - December 2015</span>
+            <span className="text-primary">August 2014 - September 2015</span>
           </div>
         </div>
 
@@ -198,16 +196,17 @@ const Experience = () => {
               </a>
             </div>
             <p>
-              In IT DW team, responsible for conducting the analysis of the 
-              preparation of BI systems for supporting the decision making of the top managers.
+              In IT DW team, responsible for conducting the analysis of the
+              preparation of BI systems for supporting the decision making of
+              the top managers.
             </p>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">August 2013 - July 2014</span>
+            <span className="text-primary">July 2013 - July 2014</span>
           </div>
         </div>
 
-        <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
+        {/* <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
           <div className="resume-content">
             <h3 className="mb-0">IT Auditor</h3>
             <div className="subheading mb-3">KPMG Turkey</div>
@@ -220,8 +219,7 @@ const Experience = () => {
           <div className="resume-date text-md-right">
             <span className="text-primary">October 2011 - June 2013</span>
           </div>
-        </div>
-          */}
+        </div> */}
       </div>
     </section>
   );

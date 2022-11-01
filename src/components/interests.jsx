@@ -9,10 +9,10 @@ const Interest = () => {
       <div className="w-100">
         <h2 className="mb-5">Interests</h2>
         <p>
-          Apart from being a web developer, I enjoy most of my time being in
-          climbing gyms and outdoors depend on the weather conditions. During
+          Apart from being a Software developer, I enjoy most of my time being
+          in climbing gyms and outdoors depend on the weather conditions. During
           the dry months, I enjoy rock climbing and bouldering in the nature,
-          other times I become a gym rat.
+          other times I am a gym rat.
         </p>
         <p className="mb-0">
           When forced indoors, I follow a number of sci-fi and fantasy genre
