@@ -6,6 +6,21 @@ const Experience = () => {
       className="resume-section p-3 p-lg-5 d-flex justify-content-center"
       id="experience"
     >
+      <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div className="resume-content">
+          <h3 className="mb-0">Frontend Engineer</h3>
+          <div className="subheading mb-3">
+            <a target="_blank" href="https://www.igeniusgroup.com/">
+              RTL
+            </a>
+          </div>
+          <p></p>
+        </div>
+        <div className="resume-date text-md-right">
+          <span className="text-primary">January 2023 - Present</span>
+        </div>
+      </div>
+
       <div className="w-100">
         <h2 className="mb-5">Experience</h2>
 
@@ -18,13 +33,13 @@ const Experience = () => {
               </a>
             </div>
             <p>
-              At Netfront, as a Frontend Engineer, I am working in company’s
+              At Netfront, as a Frontend Engineer, I worked in company’s
               development team mainly focusing on company’s web and mobile
               app-based education platforms.
             </p>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">April 2021 - Present</span>
+            <span className="text-primary">April 2021 - April 2023</span>
           </div>
         </div>
 
@@ -46,7 +61,7 @@ const Experience = () => {
             </p>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">December 2019 - April 2021</span>
+            <span className="text-primary">January 2020 - April 2021</span>
           </div>
         </div>
 
@@ -115,7 +130,7 @@ const Experience = () => {
             </div>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">March 2017 - December 2019</span>
+            <span className="text-primary">December 2016 - December 2019</span>
           </div>
         </div>
 
@@ -165,7 +180,7 @@ const Experience = () => {
             </div>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">September 2015 - March 2017</span>
+            <span className="text-primary">September 2015 - November 2016</span>
           </div>
         </div>
 
@@ -183,7 +198,7 @@ const Experience = () => {
             </p>
           </div>
           <div className="resume-date text-md-right">
-            <span className="text-primary">August 2014 - September 2015</span>
+            <span className="text-primary">July 2014 - September 2015</span>
           </div>
         </div>
 
