@@ -1,35 +1,28 @@
 {
-  "name": "resume",
-  "version": "0.1.0",
+  "name": "myresume",
+  "version": "0.2.0",
   "private": true,
-  "dependencies": {
-    "jquery": "^3.5.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-google-font-loader": "^1.1.0",
-    "react-router-dom": "^4.3.1",
-    "react-scripts": "^3.4.3",
-    "react-scrollspy": "^3.4.3"
-  },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
   },
-  "eslintConfig": {
-    "extends": "react-app"
+  "dependencies": {
+    "motion": "^12.23.12",
+    "next": "16.2.10",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.14.6",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.10",
+    "tailwindcss": "^4",
+    "typescript": "^5"
   }
 }
