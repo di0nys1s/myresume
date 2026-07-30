@@ -32,13 +32,17 @@ export function ScrollToTop() {
         <motion.button
           type="button"
           onClick={scrollToTop}
-          className="fixed bottom-8 right-8 z-50 inline-flex h-12 w-12 items-center justify-center rounded-full border border-line bg-surface text-ink shadow-lg backdrop-blur-sm transition-all hover:border-accent hover:bg-accent hover:text-white hover:shadow-xl active:scale-95"
+          className="fixed bottom-8 right-8 z-50 inline-flex h-12 w-12 items-center justify-center rounded-full border border-line bg-surface text-ink shadow-lg backdrop-blur-sm hover:border-accent hover:bg-accent hover:text-white hover:shadow-xl"
+          style={{
+            transition: "border-color 0.2s, background-color 0.2s, color 0.2s, box-shadow 0.2s",
+          }}
           aria-label="Scroll to top"
           title="Scroll to top"
           initial={{ opacity: 0, scale: 0.8, y: 20 }}
           animate={{ opacity: 1, scale: 1, y: 0 }}
           exit={{ opacity: 0, scale: 0.8, y: 20 }}
           transition={{ duration: 0.3, ease: [0.22, 1, 0.36, 1] }}
+          whileTap={{ scale: 0.95 }}
         >
           <svg
             viewBox="0 0 24 24"
